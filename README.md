@@ -14,6 +14,8 @@ PHPでCRUD実装を学んだのでiTunes APIと Last FM API を組み合わせ�
 - ログインなしでもクローリング可能(お気に入り登録ができない)
 - ユーザー画像の登録、変更
 
+ファイル構成全く整理されていません。。反省。。。
+
 ## Demo
 
 [DEMO](https://yamashita-ksk.sakura.ne.jp/discmark/discmark_search.php)
