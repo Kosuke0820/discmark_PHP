@@ -22,7 +22,7 @@ PHPでCRUD実装を学んだのでiTunes APIと Last FM API を組み合わせ�
 
 
 ## Language
-PHP, mySQL, CSS(BootStrap), Javascript, jQuery
+PHP, mySQL, CSS(BootStrap), Javascript, jQuery, iTunes API, last FM API
 
 ## Created date
 
