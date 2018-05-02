@@ -5,8 +5,7 @@
 ## Description
 
 PHPでCRUD実装を学んだのでiTunes APIと Last FM API を組み合わせて音楽プラットフォームの様なもの作れないかな〜？
-と思い作りました。  
-(リリースはしていません)  
+と思い作りました。(リリースはしていません)  
 - CRUD
 - 音楽、ムービーの再生 (30秒のみ)
 - 類似アーティストの表示
@@ -19,11 +18,6 @@ PHPでCRUD実装を学んだのでiTunes APIと Last FM API を組み合わせ�
 
 [DEMO](https://yamashita-ksk.sakura.ne.jp/discmark/discmark_search.php)
 
-
-
-## Usage
-
-音楽ファイル(mp3 or wav)をインポート後、画面下部のスライダーでフォーカス幅を調整できます。  
 
 ## Language
 PHP, mySQL, CSS(BootStrap), Javascript, jQuery
